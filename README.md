@@ -12,6 +12,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20SW%20HW%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
+## 🚀 About Me
+
 - 🏢 I'm an Embedded HW/SW Engineer.
 - 💬 Ask me about my experience with C/C++, Electronics , PCB Design  or anything related to Embedded development.
 - 👨‍💻 Check out my linkedIn profile https://www.linkedin.com/in/ibrahemahmedibrahem/ to see some of the projects I've worked on.
